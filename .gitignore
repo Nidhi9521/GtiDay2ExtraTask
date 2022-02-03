@@ -107,4 +107,5 @@ dist
 .o
 .jar
 .libraries
-.ignore
+.ignore.txt
+
