@@ -1,5 +1,6 @@
 dd
-
+rebase check time see what happen
+git conflict change 
 conflict occurance check what happen
 
 conflict time A.txt check what happen
