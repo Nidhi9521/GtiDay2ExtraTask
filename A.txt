@@ -1,4 +1,6 @@
 dd
+git rebase time
+
 
 conflict occurance check what happen
 
