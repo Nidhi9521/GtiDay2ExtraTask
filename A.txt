@@ -4,4 +4,6 @@ conflict occurance check what happen
 
 conflict time A.txt check what happen
 
+work in one commit 
+
 
