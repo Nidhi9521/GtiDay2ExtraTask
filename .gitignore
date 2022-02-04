@@ -108,5 +108,5 @@ dist
 .jar
 .libraries
 ./ignore.txt
-./vs/
+vs/
 
