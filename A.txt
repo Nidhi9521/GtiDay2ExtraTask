@@ -6,4 +6,6 @@ conflict time A.txt check what happen
 
 work in one commit 
 
+Feature1 introduce
+
 
